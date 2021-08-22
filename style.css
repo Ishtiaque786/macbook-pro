@@ -1,0 +1,10 @@
+/* main section  */
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.image-container img {
+  height: 350px;
+  width: 500px;
+}
